@@ -1,5 +1,5 @@
 # POSTECH-OIBC-SolarChallenge
 
-Postech OIBC Solar Challenge records
+Postech OIBC Solar Challenge
 
 http://competition.postech.ac.kr/
